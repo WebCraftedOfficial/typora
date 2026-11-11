@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://webcraftedofficial.github.io/typora/sitemap.xml
